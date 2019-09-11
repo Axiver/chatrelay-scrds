@@ -1,6 +1,6 @@
 # Chat Relay from SCRDS to Discord
 
-######This is code from a discord bot that I made for the Lego's Servers Discord Server. They ran a Jailbreak server for CSGO. I'm releasing this as it is unlikely that they will open up ever again.
+###### This is code from a discord bot that I made for the Lego's Servers Discord Server. They ran a Jailbreak server for CSGO. I'm releasing this as it is unlikely that they will open up ever again.
 
 You may modify this spaghetti code for your own usage. It was designed to work in conjunction with the chatlogger plugin for SCRDS, which I will include in this repository.
 
