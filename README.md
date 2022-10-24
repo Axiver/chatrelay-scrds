@@ -44,9 +44,9 @@ Please read [CONTRIBUTING.md](Contributing.md) for details on our code of conduc
 
 ## Authors
 
-* **Garlicvideos** - [Garlicvideos](https://github.com/Garlicvideos)
+* **Axiver** - [Axiver](https://github.com/Axiver)
 
-See also the list of [contributors](https://github.com/Garlicvideos/chatrelay-scrds/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Axiver/chatrelay-scrds/contributors) who participated in this project.
 
 ## License
 
